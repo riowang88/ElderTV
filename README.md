@@ -15,9 +15,18 @@
 
 到 [Releases](../../releases) 下载 `ElderTV-1.0.0-armeabi-v7a.apk`，用 U 盘或局域网传到电视上安装。
 
-- 支持：安卓 7.0 及以上，32 位 ARM（大多数电视和盒子）
+GitHub 打不开时，可以用中转地址（第三方服务，一条不行换另一条）：
+
+- https://ghfast.top/https://github.com/riowang88/ElderTV/releases/download/v1.0.0/ElderTV-1.0.0-armeabi-v7a.apk
+- https://gh-proxy.com/https://github.com/riowang88/ElderTV/releases/download/v1.0.0/ElderTV-1.0.0-armeabi-v7a.apk
+
+- 最低支持：安卓 7.0（API 24）及以上，32 位 ARM（大多数电视和盒子）
 - 测试设备：雷鸟电视（Android 11）
 
 ## 说明
 
 基于 [FongMi/TV](https://github.com/FongMi/TV) 的分支 [motao123/webtv](https://github.com/motao123/webtv) 修改，界面和交互按老人使用习惯重做。
+
+## 许可证与源码
+
+ElderTV 按 GPL-3.0 发布。每个版本的对应源码以压缩包形式附在该版本的 Release 里（`ElderTV-<版本>-source.tar.gz`）。

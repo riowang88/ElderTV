@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updated": "2026-11-21",
+  "note": "ElderTV netdisk search hosts (Apple CMS resource sites that list netdisk share links). Read by the TV app; edit to replace dead hosts.",
+  "hosts": [
+    "https://woog.nxog.fun",
+    "https://woog.nxog.eu.org",
+    "https://woog.430520.xyz",
+    "https://ogkk.nxog.eu.org",
+    "http://xhban.xyz",
+    "http://38.76.197.172:16969",
+    "https://tv.214521.xyz",
+    "https://tv.yydsys.top"
+  ]
+}

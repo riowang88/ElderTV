@@ -13,14 +13,16 @@
 
 ## 下载
 
-到 [Releases](../../releases) 下载 `ElderTV-1.0.0-armeabi-v7a.apk`，用 U 盘或局域网传到电视上安装。
+到 [Releases](../../releases) 下载 `ElderTV-1.2.3-armeabi-v7a.apk`（64 位设备用 `ElderTV-1.2.3-arm64-v8a.apk`），用 U 盘或局域网传到电视上安装。
 
 GitHub 打不开时，可以用中转地址（第三方服务，一条不行换另一条）：
 
-- https://ghfast.top/https://github.com/riowang88/ElderTV/releases/download/v1.0.0/ElderTV-1.0.0-armeabi-v7a.apk
-- https://gh-proxy.com/https://github.com/riowang88/ElderTV/releases/download/v1.0.0/ElderTV-1.0.0-armeabi-v7a.apk
+- 32 位 线路一：https://gh.acmsz.top/https://github.com/riowang88/ElderTV/releases/download/v1.2.3/ElderTV-1.2.3-armeabi-v7a.apk
+- 32 位 线路二：https://gh.monlor.com/https://github.com/riowang88/ElderTV/releases/download/v1.2.3/ElderTV-1.2.3-armeabi-v7a.apk
+- 64 位 线路一：https://gh.acmsz.top/https://github.com/riowang88/ElderTV/releases/download/v1.2.3/ElderTV-1.2.3-arm64-v8a.apk
+- 64 位 线路二：https://gh.monlor.com/https://github.com/riowang88/ElderTV/releases/download/v1.2.3/ElderTV-1.2.3-arm64-v8a.apk
 
-- 最低支持：安卓 7.0（API 24）及以上，32 位 ARM（大多数电视和盒子）
+- 最低支持：安卓 7.0（API 24）及以上，32 位（大多数电视和盒子）或 64 位 ARM
 - 测试设备：雷鸟电视（Android 11）
 
 ## 说明
